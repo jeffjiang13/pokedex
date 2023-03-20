@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/jeffjiang13/rent-place">
-    <img src="client/src/assets/house.png" alt="rent" width="200" height="50">
+    <img src="src/assets/pokeball.png" alt="rent" width="100" height="100">
   </a>
 
 </div>
